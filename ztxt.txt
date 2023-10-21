@@ -1,8 +1,0 @@
-Dodawanie tabel
-
-1. Entity
-2. DbContext
-3. NuGet
-	add-migration nazwa
-	update-database
-4. [optional] seeder
